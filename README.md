@@ -59,7 +59,7 @@ address_book/
 ### 1. **Clone & Install**
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/AMALDEEP-P/address-book.git
 cd address_book
 poetry install
 ```
